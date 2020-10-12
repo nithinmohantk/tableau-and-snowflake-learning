@@ -25,3 +25,6 @@ You tube videos if you don’t want to log in
 2. Devs at Desks - video with commentary which is kinda cool or annoying depending on your frame of mind. The demo content starts from 17 min 21 sec  so fast forward to there.    https://www.youtube.com/watch?v=I_f4AoVWJ7o
 3. If you didn’t know Tableau paired up with Salesforce - https://www.youtube.com/watch?v=0KQ8KGJtLn8 
 4. If you want a good laugh https://www.youtube.com/watch?v=_LnWX91Y0Q8 … I just can’t even describe this or why it exists.  
+
+
+Next up - try the Tableau Hands On option 
