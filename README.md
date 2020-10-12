@@ -1,1 +1,0 @@
-# tableau-and-snowflake-learning
