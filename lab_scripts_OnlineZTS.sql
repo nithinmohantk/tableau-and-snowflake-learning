@@ -51,7 +51,10 @@ create or replace file format csv type='csv'
 
 -- 4.2.2
 
-copy into trips from @citibike_trips file_format=csv;
+copy into trips from @citibike_trips file_format=csv 
+on_error = skip_file
+pattern = '.*\.csv\.gz$'
+file_format = csv;
 
 -- 4.2.4
 
@@ -59,7 +62,10 @@ truncate table trips;
 
 -- 4.2.7
 
-copy into trips from @citibike_trips file_format=csv;
+copy into trips from @citibike_trips file_format=csv 
+on_error = skip_file
+pattern = '.*\.csv\.gz$'
+file_format = csv;
 
 -- 4.3
 
